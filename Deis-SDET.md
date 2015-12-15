@@ -10,7 +10,7 @@ and operates software. We practice what we preach. We are:
 - conference presenters and organizers
 - new technology and language early adopters
 - composable software creators
-- seasoned (dev)ops personnel
+- seasoned (dev) ops personnel
 
 ## We're Known For
 
@@ -24,7 +24,7 @@ Service for [Docker][docker] containers
 Conversely, you can't stand testing something that could easily be done by a
 machine.
 
-2. A contributor who jumps into action when you hear "it works on my machine."
+2. A contributor who jumps into action when you hear the excuse that "it works on my machine."
 You go the extra mile to implement a solution such that no human ever
 experiences that same situation again.
 
